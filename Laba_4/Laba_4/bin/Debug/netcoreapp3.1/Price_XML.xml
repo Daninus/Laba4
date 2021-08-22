@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<ArrayOfPrice xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Price>
+    <nameOfProduct>Сир</nameOfProduct>
+    <nameOfShop>    С?льпо</nameOfShop>
+    <Amount>4000</Amount>
+  </Price>
+  <Price>
+    <nameOfProduct>Ог?рок</nameOfProduct>
+    <nameOfShop>    АТБ</nameOfShop>
+    <Amount>750</Amount>
+  </Price>
+  <Price>
+    <nameOfProduct>Шоколад</nameOfProduct>
+    <nameOfShop>    Малина</nameOfShop>
+    <Amount>2300</Amount>
+  </Price>
+  <Price>
+    <nameOfProduct>Молоко</nameOfProduct>
+    <nameOfShop>    Деликат</nameOfShop>
+    <Amount>2040</Amount>
+  </Price>
+  <Price>
+    <nameOfProduct>Шоколад</nameOfProduct>
+    <nameOfShop>    АТБ</nameOfShop>
+    <Amount>3000</Amount>
+  </Price>
+</ArrayOfPrice>
